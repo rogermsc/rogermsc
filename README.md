@@ -23,7 +23,7 @@ Manufacturing • Aquaculture • Insurance • Healthcare • Financial Service
 ## Connect
 
 🌐 [wearegoodai.com](https://wearegoodai.com)  
-📍 United States • Ecuador • Brazil
+📍 United States
 
 ---
 
