@@ -18,18 +18,14 @@ Computer Scientist and Mechanical Engineer with 20+ years shipping technology ac
 
 ### What I build
 
-- **LLMs & agents** — agentic workflows, tool use, memory, evaluation, RAG, and prompt/context engineering
-- **Computer vision** — real-time detection and analytics on live camera streams
-- **Applied & industrial AI** — predictive maintenance, automation, and decision systems for heavy industry
-- **Edge AI** — self-improving agents designed to run on-device
+- **LLMs & agents** · agentic workflows, tool use, memory, evaluation, RAG, and prompt/context engineering
+- **Computer vision** · real-time detection and analytics on live camera streams
+- **Applied & industrial AI** · predictive maintenance, automation, and decision systems for heavy industry
+- **Edge AI** · self-improving agents designed to run on-device
 
-### Featured projects
+### Featured project
 
-- **NSL-Agent-Framework** — open-source Negative-Space Learning architecture for self-improving AI agents, built for edge deployment.
-- **Superior Trade** — autonomous system that turns natural language into verified, live-executing trading strategies (97.43% intent accuracy, five-year backtest).
-- **GeoCluster** — multimodal AI for geological core analysis, fusing image recognition with geochemistry clustering.
-
-*(Pin the repos that are public, link them, and drop or describe the rest.)*
+- **[darwin-memo](https://github.com/rogermsc/darwin-memo)** · self-curating memory for LLM agents, kept honest by survival-based selection rather than reward models or judges. Python, published on PyPI, with an MCP server, a benchmark suite against baselines, and integrations for the OpenAI Agents SDK, Anthropic, and local Ollama.
 
 ### Currently
 
